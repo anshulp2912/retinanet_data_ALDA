@@ -1,9 +1,9 @@
-motorcycle,0
-bicycle,1
-animal,2
-emergency_vehicle,3
+bus,0
+other_vehicle,1
+car,2
+truck,3
 pedestrian,4
-other_vehicle,5
-bus,6
-car,7
-truck,8
+emergency_vehicle,5
+motorcycle,6
+animal,7
+bicycle,8
